@@ -1,0 +1,27 @@
+//API1
+GET http://localhost:3000/players/
+
+//API2
+###
+GET http://localhost:3000/players/player_id/
+
+//API3
+###
+PUT http://localhost:3000/players/player_id/
+
+//API4
+###
+GET http://localhost:3000/matches/match_id/
+
+//API5
+###
+GET http://localhost:3000/players/player_id/matches
+
+//API6
+###
+GET http://localhost:3000/matches/match_id/players
+
+//API7
+###
+GET http://localhost:3000/players/player_id/playerScores
+
